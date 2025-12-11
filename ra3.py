@@ -1,4 +1,7 @@
 #python -m streamlit run ra.py
+#or streamlit run (ourfile name) ra.py
+#go to the di9rectory where our file is located and in the path type cmd 
+#and type the above two lo any one to go to the streamlit and view your programme
 
 
 import streamlit as st
