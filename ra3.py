@@ -1,3 +1,6 @@
+#python -m streamlit run ra.py
+
+
 import streamlit as st
 st.title("how many times more?")
 username=st.text_input("enter username ")
